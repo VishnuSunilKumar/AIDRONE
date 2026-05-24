@@ -2,7 +2,7 @@
 
 An AI-powered drone system designed for real-time human detection and facial detection using computer vision and deep learning technologies.
 
-This project combines intelligent software modules with drone hardware to create a smart aerial monitoring system capable of live visual analysis and autonomous AI-assisted surveillance.
+This project combines intelligent software modules with drone hardware to create a smart aerial monitoring system capable of live visual analysis and AI-assisted surveillance.
 
 ---
 
@@ -19,7 +19,7 @@ The system currently includes:
 - Drone Hardware Integration
 - YOLO-based Object Detection
 
-The project demonstrates how AI can transform traditional drone systems into intelligent autonomous platforms for surveillance, monitoring, research, and smart automation.
+The project demonstrates how AI can transform traditional drone systems into intelligent autonomous platforms for surveillance, monitoring, research, and automation.
 
 ---
 
@@ -27,9 +27,7 @@ The project demonstrates how AI can transform traditional drone systems into int
 
 The drone hardware setup includes the drone frame, onboard camera system, processing environment, and AI integration components.
 
-### Hardware Images
-
-> Add your drone hardware images below
+### Hardware Image
 
 ![Drone Setup](https://github.com/user-attachments/assets/cd7bc8d5-52bc-4551-bfaf-8a7e39685e2a)
 
@@ -49,29 +47,29 @@ The facial detection module identifies and processes human faces from the drone 
 
 ### AI System Images
 
+#### Human Detection
+
 ![Human Detection](https://github.com/user-attachments/assets/59c7457a-90c0-4ddd-b9b8-c5abe672b731)
-
-![Facial Detection](YOUR_FACE_IMAGE_LINK_HERE)
-
-![Live Detection Feed](https://github.com/user-attachments/assets/59c7457a-90c0-4ddd-b9b8-c5abe672b731)
-```
 
 ---
 
 ## Tech Stack
 
 ### AI & Computer Vision
+
 - Python
 - YOLO
 - OpenCV
 - NumPy
 
 ### Development Tools
+
 - VS Code
 - Git
 - GitHub
 
 ### Hardware
+
 - Drone Frame
 - Camera Module
 - AI Processing Environment
@@ -85,7 +83,7 @@ The facial detection module identifies and processes human faces from the drone 
 - Live Video Stream Processing
 - AI-powered Monitoring
 - Lightweight Detection Pipeline
-- Hardware + Software Integration
+- Hardware and Software Integration
 - Scalable AI Architecture
 
 ---
@@ -130,8 +128,6 @@ python app.py
 
 ## Project Structure
 
-## Project Structure
-
 ```bash
 AIDRONE/
 │
@@ -149,6 +145,7 @@ AIDRONE/
 ├── requirements.txt        # Project dependencies
 └── README.md
 ```
+
 ---
 
 ## Future Improvements
