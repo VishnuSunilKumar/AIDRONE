@@ -7,7 +7,7 @@ import numpy as np
 import torch
 
 device = 0 if torch.cuda.is_available() else "cpu"
-
+# 1
 # Try to import YOLOv8
 try:
     from ultralytics import YOLO
