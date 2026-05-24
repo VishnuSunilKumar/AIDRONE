@@ -161,9 +161,11 @@ AIDRONE/
 
 ## Contributors
 
+### Jeevan Jiji Thomas
+### Kevin Jacob
+### Krishna R
 ### Vishnu Sunil Kumar
 
-AI | Software Development | Computer Vision
 
 ---
 
