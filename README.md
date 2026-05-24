@@ -161,10 +161,10 @@ AIDRONE/
 
 ## Contributors
 
-### Jeevan Jiji Thomas
-### Kevin Jacob
-### Krishna R
-### Vishnu Sunil Kumar
+- Jeevan Jiji Thomas
+- Kevin Jacob
+- Krishna R
+- Vishnu Sunil Kumar
 
 
 ---
